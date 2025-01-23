@@ -1020,3 +1020,7 @@ li2020_immune,li2020_immune|hnscc|head and neck squamous cell carcinoma,CCL26,10
 li2020_immune,li2020_immune|hnscc|head and neck squamous cell carcinoma,DKK1,22943,0.0059,weighted_sum|,10.1038/s41598-020-63148-8,Immune-related genes for prognosis prediction in HNSCC patients.
 li2020_immune,li2020_immune|hnscc|head and neck squamous cell carcinoma,SEMA3G,56920,-0.15230000000000002,weighted_sum|,10.1038/s41598-020-63148-8,Immune-related genes for prognosis prediction in HNSCC patients.
 li2020_immune,li2020_immune|hnscc|head and neck squamous cell carcinoma,SFTPA2,729238,0.059000000000000004,weighted_sum|,10.1038/s41598-020-63148-8,Immune-related genes for prognosis prediction in HNSCC patients.
+zhu2020_autophagy,zhu2020_autophagy|oscc|hnscc|head and neck squamous cell carcinoma,BAK1,578,0.25,weighted_sum|,10.1111/odi.13492,Prognostic autophagy-related genes in oral squamous cell carcinoma.
+zhu2020_autophagy,zhu2020_autophagy|oscc|hnscc|head and neck squamous cell carcinoma,BID,637,0.4,weighted_sum|,10.1111/odi.13492,Prognostic autophagy-related genes in oral squamous cell carcinoma.
+zhu2020_autophagy,zhu2020_autophagy|oscc|hnscc|head and neck squamous cell carcinoma,SPHK1,8877,-0.21000000000000002,weighted_sum|,10.1111/odi.13492,Prognostic autophagy-related genes in oral squamous cell carcinoma.
+zhu2020_autophagy,zhu2020_autophagy|oscc|hnscc|head and neck squamous cell carcinoma,NKX2-3,159296,-0.58,weighted_sum|,10.1111/odi.13492,Prognostic autophagy-related genes in oral squamous cell carcinoma.
