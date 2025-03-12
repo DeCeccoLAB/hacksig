@@ -1,10 +1,10 @@
 library(dplyr)
 library(org.Hs.eg.db) # version 3.16.0
+library(readr)
 # library(hgu133plus2.db) # version 3.2.3
 
 # Add some signatures to hacksig_signatures.csv. Then:
-signatures_data <- readr::read_csv("data-raw/hacksig_signatures.csv",
-                                   col_types = "ccccnccc")
+signatures_data <- readr::read_delim("hacksig_signatures.csv", col_types = "ccccnccc",  delim = ";")
 
 genes_to_update <- signatures_data %>%
     filter(is.na(gene_entrez_id)) %>%
@@ -26,7 +26,7 @@ signatures_data <- bind_rows(
 )
 
 # Overwrite csv file
-signatures_data %>% readr::write_csv("data-raw/hacksig_signatures.csv")
+signatures_data %>% readr::write_csv("hacksig_signatures.csv")
 
 # Save R object
 usethis::use_data(signatures_data, internal = TRUE, overwrite = TRUE)
