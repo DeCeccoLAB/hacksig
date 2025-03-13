@@ -1138,7 +1138,6 @@ li2021_oscc,li2021_oscc|oscc|oral squamous cell carcinoma|hypoxia,CNFN,84518,-0.
 li2021_oscc,li2021_oscc|oscc|oral squamous cell carcinoma|hypoxia,AQP3,360,0.094246012,weighted_sum|,10.3389/fonc.2021.709865,A hypoxia-related signature identifying OSCC subtypes for prognosis and therapy selection.
 li2021_oscc,li2021_oscc|oscc|oral squamous cell carcinoma|hypoxia,KRT10,3858,0.20580369,weighted_sum|,10.3389/fonc.2021.709865,A hypoxia-related signature identifying OSCC subtypes for prognosis and therapy selection.
 li2021_oscc,li2021_oscc|oscc|oral squamous cell carcinoma|hypoxia,KRT8,3856,0.190962707,weighted_sum|,10.3389/fonc.2021.709865,A hypoxia-related signature identifying OSCC subtypes for prognosis and therapy selection.
-<<<<<<< HEAD
 li2021_oscc,li2021_oscc|oscc|oral squamous cell carcinoma|hypoxia,DDIT4,54541,0.24506142700000008,weighted_sum|,10.3389/fonc.2021.709865,A hypoxia-related signature identifying OSCC subtypes for prognosis and therapy selection.
 dececco2014_hnscc,dececco2014_hnscc|hnscc|head and neck squamous cell carcinoma,ADRBK1,NA,-0.0061070000000000004,weighted_sum|,10.1093/annonc/mdu173,"A 172-gene signature predicting relapse risk in HNSCC, independent of HPV status."
 dececco2014_hnscc,dececco2014_hnscc|hnscc|head and neck squamous cell carcinoma,AMPD3,272,-0.017009,weighted_sum|,10.1093/annonc/mdu173,"A 172-gene signature predicting relapse risk in HNSCC, independent of HPV status."
