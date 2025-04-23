@@ -30,3 +30,4 @@ signatures_data %>% readr::write_csv("data-raw/hacksig_signatures.csv")
 
 # Save R object
 usethis::use_data(signatures_data, internal = TRUE, overwrite = TRUE)
+
